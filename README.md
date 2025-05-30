@@ -75,10 +75,10 @@
 --------
 
   ## 📊 Estatísticas
+  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellva&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true" height="180" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellva&layout=compact&langs_count=8&theme=aura&hide_border=true" height="180" /></a> |
+| ------------- | ------------- |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellva&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellva&theme=cobalt&layout=compact&langs_count=10)
- 
 <div> 
   <a href = "mailto:gabriellva2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-lopes-a571a4358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -88,4 +88,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellva/gabriellva/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellva/gabriellva/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gabriellva/gabriellva/output/github-snake.svg" />
+  <img align="right" alt="Gif" scr="https://cdn.discordapp.com/attachments/1342723623089078296/1378069410685784136/giphy.gif?ex=683b42a6&is=6839f126&hm=cf5092865a9587b3d232fe72c7270dbbb6f7a375db94d4fcad282989b9bfe6e8&" />
 </picture>
+
+
