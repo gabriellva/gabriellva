@@ -69,6 +69,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
@@ -88,7 +89,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellva/gabriellva/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellva/gabriellva/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gabriellva/gabriellva/output/github-snake.svg" />
-  <img align="right" alt="Gif" scr="https://cdn.discordapp.com/attachments/1342723623089078296/1378069410685784136/giphy.gif?ex=683b42a6&is=6839f126&hm=cf5092865a9587b3d232fe72c7270dbbb6f7a375db94d4fcad282989b9bfe6e8&" />
 </picture>
+
+<div align="right">
+<img src="https://cdn.discordapp.com/attachments/1342723623089078296/1378069410685784136/giphy.gif?ex=683b42a6&is=6839f126&hm=cf5092865a9587b3d232fe72c7270dbbb6f7a375db94d4fcad282989b9bfe6e8&" width="150"/>
+</div>
 
 
