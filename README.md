@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Gabriel Lopes
 🇧🇷 - _Oi! Me chamo Gabriel Lopes, tenho 18 anos e sou de São Paulo. Cursei o ensino médio na ETEC, no curso de Programação de Jogos Digitais e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC._
 
-🇺🇸 - _Hi! My name is Gabriel Lopes, I'm 18 years old and I'm from São Paulo. I studied Digital Games Programming at ETEC and am currently studying Systems Analysis and Development at FATEC._
+🇺🇸 - _Hi! My name is Gabriel Lopes, I'm 18 years old and I'm from São Paulo. I studied Game Development at ETEC and am currently studying Systems Analysis and Development at FATEC._
 
 -------
 ## 🤖 Linguagens e Tecnologias
