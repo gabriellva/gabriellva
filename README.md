@@ -1,29 +1,20 @@
 # 🧑🏻‍💻 Gabriel Lopes
-🇧🇷 - _Oi! Me chamo Gabriel Lopes, tenho 18 anos e sou de São Paulo. Cursei o ensino médio na ETEC, no curso de Programação de Jogos Digitais e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC._
+🇧🇷 - _Olá! Me chamo Gabriel Lopes, desenvolvedor de São Paulo com 5 anos de experiência em desenvolvimento de software. Atuo principalmente com Vue.js + TypeScript e PHP/Laravel, construindo aplicações web end-to-end completas. Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC._
 
-🇺🇸 - _Hi! My name is Gabriel Lopes, I'm 18 years old and I'm from São Paulo. I studied Game Development at ETEC and am currently studying Systems Analysis and Development at FATEC._
+🇺🇸 - _Hi! My name is Gabriel Lopes, a developer from São Paulo with 5 years of software development experience. I work mainly with Vue.js + TypeScript and PHP/Laravel, building complete end-to-end web applications. I'm currently studying Systems Analysis and Development at FATEC._
 
 -------
 ## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="VueJs" 
+    title="VueJs"
     width="35px"
     height="50px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="35px"
-    height="50px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
+    
 <img 
     align="left" 
     alt="HTML"
@@ -31,8 +22,8 @@
     width="35px"
     height="50px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    
 <img 
     align="left" 
     alt="CSS" 
@@ -40,8 +31,17 @@
     width="35px" 
     height="50px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="35px"
+    height="50px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    
 <img 
     align="left" 
     alt="JavaScript" 
@@ -49,8 +49,26 @@
     width="35px" 
     height="50px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="35px"
+    height="50px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="35px"
+    height="50px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+    
 <img 
     align="left" 
     alt="Git" 
@@ -58,8 +76,7 @@
     width="35px"
     height="50px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br/>
 <br/>
