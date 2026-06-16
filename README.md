@@ -68,6 +68,15 @@
     height="50px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="35px"
+    height="50px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
     
 <img 
     align="left" 
@@ -77,7 +86,7 @@
     height="50px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
+    
 <br/>
 <br/>
 
